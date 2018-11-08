@@ -557,3 +557,5 @@ Syed Ahmed
 [Peter Lemenkov](https://github.com/lemenkov)
 
 Juan David Perez O.
+
+[Daisuke Osada](https://github.com/dai)
